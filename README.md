@@ -3,11 +3,11 @@
   * Extensions 
     * [JS injector](https://addons.mozilla.org/en-US/firefox/addon/javascript/)
     * [VPN](https://addons.mozilla.org/en-US/firefox/addon/hoxx-vpn-proxy/)
-* (Extra) Auto-clicker
+* [Auto-clicker](https://autoclicker.pro/download/)
 
 ### Steps
 1. Run Firefox
-2. Install the extensions
+2. Install the extensions and the auto-clicker
 3. Navigate to the [poll page](https://poll.fm/10539880)
 4. Add the following script to the injector(on poll page)
 <pre>
@@ -23,5 +23,8 @@ function back_to_poll(){
 setTimeout(back_to_poll(), 4000);
 lerpent_sord();
 </pre>
-5. Initialize the VPN
-6. Vote for the bois and submit(or simply refresh the page)
+5. Initialize the VPN by connecting to a random country
+6. Run the autoclicker and set it up like [this](https://prnt.sc/s3hoth)
+_note: cursor potision may vary depending on your monitor size_
+7. Vote for the bois and submit(or simply refresh the page)
+8. Open the VPN drop down menu by clicking on it and press F4
