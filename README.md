@@ -24,7 +24,7 @@ setTimeout(back_to_poll(), 4000);
 lerpent_sord();
 </pre>
 5. Initialize the VPN by connecting to a random country
-6. Run the autoclicker and set it up like [this](https://prnt.sc/s3hoth)  
+6. Run the autoclicker and set it up like [this](https://prnt.sc/s3hxon)  
 _note: cursor potision(VPN's disconnect button potision) may vary depending on your monitor size_
 7. Vote for the bois and submit(or simply refresh the page)
 8. Open the VPN drop down menu by clicking on it and press F4
