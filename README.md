@@ -32,5 +32,5 @@ _note: Cursor potision(VPN's disconnect button potision) may vary depending on y
 ### How to stop
 1. Stop the auto-clicker by pressing F4 again
 2. Press `Esc` on the poll page to spot the refreshing
-3. (Extra) Open the extension menu by hitting `Ctrl+Shift+A`, navigate to the addon tab and turn off the injector
+3. (Extra) Open the extension menu by hitting `Ctrl+Shift+A`, navigate to the addon tab and turn off the injector  
 _note: You'll have to restart it again if you wanna repeat the process_
